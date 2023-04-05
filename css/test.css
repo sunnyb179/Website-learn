@@ -1,0 +1,33 @@
+body{
+    background-color: lightcyan;
+}
+h1{
+    font-size: 30px;
+    color: salmon;
+}
+
+h2{
+    color: rebeccapurple;
+    font-size: 20px;
+}
+
+h2{
+    color: green;
+    font-size: 20px;
+}
+
+.big{
+    font-size: 60px;
+}
+
+.uppercase{
+    text-transform: uppercase;
+}
+
+.big.uppercase{
+    color: rosybrown;
+}
+
+h1 span{
+    color: violet;
+}
