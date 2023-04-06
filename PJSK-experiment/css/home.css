@@ -1,0 +1,17 @@
+body{
+    margin: 0;
+    background-color: cyan;
+    font-family: '黑体', '宋体', Arial;
+
+}
+header{
+    background-image: url('pjsk_header.webp');
+    background-color: palevioletred;
+    text-align:center;
+    padding: 250px;
+}
+header h1{
+    color: wheat;
+    font-size: 100px;
+    text-shadow: -1px 1px 0 brown, 1px 1px 0 brown,1px -1px 0 brown,-1px -1px 0 brown;
+}
