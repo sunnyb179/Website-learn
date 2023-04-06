@@ -2,6 +2,7 @@ body{
     margin: 0;
     background-color: cyan;
     font-family: '黑体', '宋体', Arial;
+    overflow-x: hidden;
 
 }
 header{
